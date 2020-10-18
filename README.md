@@ -26,14 +26,16 @@ Once the database was complete, queries were run to answer the following employe
 - An image file of the ERD (ERD.png).
 - A .sql file of your table schemata (Data Engineering/schema.sql).
 - A .sql file of your queries (Datanalysis/data_analysis.sql).
-- (Optional) A Jupyter Notebook of the bonus analysis.
+- A Jupyter Notebook of the bonus analyses.
 
 ## Technologies
 - PostgresSQL 12
-- pgAdmin 4
+- pgAdmin 4 v4
 - Python 3.7.8
 - Pandas 20.1.1
 - Numpy 1.18.5
+- Matplotlib 3.3.0
+- SQLalchemy
 - Jupyter Notebook
 
 ## Contact
