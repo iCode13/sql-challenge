@@ -30,11 +30,11 @@ Once the database was complete, queries were run to answer the following employe
 
 ## Technologies
 - PostgresSQL 12
+- pgAdmin 4
 - Python 3.7.8
 - Pandas 20.1.1
 - Numpy 1.18.5
-- pgAdmin 4
 - Jupyter Notebook
 
 ## Contact
-Created by [@iCode13](https://github.com/iCode13) - please feel free to contact mewith any questions on this project!
+Created by [@iCode13](https://github.com/iCode13) - please feel free to contact me with any questions on this project.
