@@ -3,10 +3,10 @@ This project builds a SQL database of employees of a corporation called Pewlett 
 
 ![Entity Relationship Diagram](./EmployeeSQL/ERD.png)
 
-Note: Any user running this code must use their own Postgres details in order to successfully connect to the database (config.py template file provided).
+* Note: Any user running this code must use their own Postgres details in order to successfully connect to their database (config.py template file provided).
 
 ## Analyses
-Once the database was complete, queries run included:
+Once the database was complete, query runs included:
 
 1. Listed the following details of each employee: employee number, last name, first name, sex, and salary.
 
