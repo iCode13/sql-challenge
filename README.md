@@ -35,20 +35,20 @@ Bonus: Further analyses revealed the following information about employee earnin
 
 
 ## List of Contents
-- An image file of the ERD (ERD.png).
-- A .sql file of your table schemata (Data Engineering/schema.sql).
-- A .sql file of your queries (Datanalysis/data_analysis.sql).
-- A Jupyter Notebook of the bonus analyses.
+* An image file of the ERD (ERD.png).
+* A .sql file of your table schemata (Data Engineering/schema.sql).
+* A .sql file of your queries (Datanalysis/data_analysis.sql).
+* A Jupyter Notebook of the bonus analyses.
 
 ## Technologies
-- PostgresSQL 12
-- pgAdmin 4.26
-- SQLalchemy 1.3.19
-- Python 3.7.8
-- Pandas 20.1.1
-- Numpy 1.18.5
-- Matplotlib 3.3.0
-- Jupyter Notebook
+* PostgresSQL 12
+* pgAdmin 4.26
+* SQLalchemy 1.3.19
+* Python 3.7.8
+* Pandas 20.1.1
+* Numpy 1.18.5
+* Matplotlib 3.3.0
+* Jupyter Notebook
 
 ## Contact
-Created by [@iCode13](https://github.com/iCode13) - please feel free to contact me with any questions on this project.
+Created by [@iCode13](https://github.com/iCode13) - please contact with questions/comments.
