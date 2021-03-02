@@ -3,6 +3,8 @@ This project builds a SQL database of employees of a corporation called Pewlett 
 
 ![Entity Relationship Diagram](./EmployeeSQL/ERD.png)
 
+Note: Any user running this code must use their own Postgres details in order to successfully connect to the database (config.py template file provided).
+
 ## Analyses
 Once the database was complete, queries run included:
 
@@ -46,7 +48,7 @@ Bonus: Further analyses revealed the following information about employee earnin
 * SQLalchemy 1.3.19
 * Python 3.7.8
 * Pandas 20.1.1
-* Numpy 1.18.5
+* NumPy 1.18.5
 * Matplotlib 3.3.0
 * Jupyter Notebook
 
